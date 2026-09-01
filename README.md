@@ -45,4 +45,6 @@ For any inquiries, please contact me via email at <evemiayuri@gmail.com>.
 
 Also, I have a personal blog at [evemia's blog](https://blog.evemia.moe), where blogroll exchange (友链) requests are always welcome!
 
-![GitHub Metrics](assets/github-metrics.svg)
+![base statistics](assets/metrics.base.svg)
+
+![language statistics](assets/metrics.languages.svg)
