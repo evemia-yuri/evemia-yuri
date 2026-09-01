@@ -35,7 +35,7 @@
 
 ## About me
 
-Hi, I'm a university student from china. I have a massive passion for coding, anime and light novel.
+Hi, I'm an university student from china. I have a massive passion for coding, anime and light novel.
 
 My absolute favorite genre is Yuri, which is exactly the inspiration behind the **"yuri"** in my username.
 
