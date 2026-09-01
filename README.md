@@ -45,6 +45,8 @@ For any inquiries, please contact me via email at <evemiayuri@gmail.com>.
 
 Also, I have a personal blog at [evemia's blog](https://blog.evemia.moe), where blogroll exchange (友链) requests are always welcome!
 
-![base statistics](assets/metrics.base.svg)
-
-![language statistics](assets/metrics.languages.svg)
+<div align="center">
+  <img src="assets/metrics.base.svg" alt="base statistics" />
+  <br />
+  <img src="assets/metrics.languages.svg" alt="language statistics" />
+</div>
