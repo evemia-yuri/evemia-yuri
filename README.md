@@ -44,3 +44,5 @@ My absolute favorite genre is Yuri, which is exactly the inspiration behind the 
 For any inquiries, please contact me via email at <evemiayuri@gmail.com>.
 
 Also, I have a personal blog at [evemia's blog](https://blog.evemia.moe), where blogroll exchange (友链) requests are always welcome!
+
+![GitHub Metrics](assets/github-metrics.svg)
