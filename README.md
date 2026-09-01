@@ -1,15 +1,17 @@
+<div align="center">
+  <img src="https://rust-lang.org/static/images/ferris.gif" width="240px" alt="Walking Ferris">
+  <img
+    src="https://count.getloli.com/@evemia-yuri?name=evemia-yuri&theme=rule34"
+    alt="anime viewer counter"
+    style="margin-left: auto; margin-right: auto"
+  />
+</div>
 <div>
-  <p align="center">
-    <img
-      src="https://count.getloli.com/@evemia-yuri?name=evemia-yuri&theme=rule34"
-      style="display: block; margin-left: auto; margin-right: auto"
-    />
-  </p>
   <h3 align="center">
     <a href="https://git.io/typing-svg">
       <img
         src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&vCenter=true&lines=evemia+yuri"
-        alt="TypingSVG"
+        alt="username svg"
       />
     </a>
   </h3>
@@ -17,6 +19,7 @@
     <a href="https://skillicons.dev">
       <img
         src="https://skillicons.dev/icons?i=cpp,rust,cs,py,js,ts"
+        alt="programming language"
       />
     </a>
   </p>
@@ -24,6 +27,7 @@
     <a href="https://skillicons.dev">
       <img
         src="https://skillicons.dev/icons?i=windows,arch,debian,vscode,visualstudio,git,docker"
+        alt="programming tools"
       />
     </a>
   </p>
