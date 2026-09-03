@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://rust-lang.org/static/images/ferris.gif" width="240px" alt="Walking Ferris">
+  <img src="assets/ferris.gif" width="240px" alt="Walking Ferris" style="margin-right: 20px">
   <img
     src="https://count.getloli.com/@evemia-yuri?name=evemia-yuri&theme=rule34"
     alt="anime viewer counter"
