@@ -35,7 +35,7 @@
 
 ## About me
 
-Hi, I'm an university student from china. I have a massive passion for coding, anime and light novel.
+Hi, I'm an university student majoring in cs. I have a massive passion for coding, anime and light novel.
 
 My absolute favorite genre is Yuri, which is exactly the inspiration behind the **"yuri"** in my username.
 
@@ -43,7 +43,7 @@ My absolute favorite genre is Yuri, which is exactly the inspiration behind the 
 
 For any inquiries, please contact me via email at <evemiayuri@gmail.com>.
 
-Also, I have a personal blog at [evemia's blog](https://blog.evemia.moe), where blogroll exchange (友链) requests are always welcome!
+Also, I have a personal blog at [evemia's blog](https://blog.evemia.moe), where blogroll exchange requests are always welcome!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/evemia-yuri/evemia-yuri/metrics-outputs/assets/metrics.base.svg" alt="base statistics" />
